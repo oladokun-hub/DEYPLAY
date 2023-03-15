@@ -1,0 +1,39 @@
+body {
+    background: aquamarine;
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+    font-style: italic;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: red;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+}
+
+button {
+    color: blue;
+    margin-left: 330px;
+    margin-right: 400px;
+    width: 100px;
+    height: 40px;
+    border: 2px solid red;
+    background: aquamarine ;
+    color: black;
+    cursor: pointer;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    margin-left: 250px;
+    margin-right: 200px;
+}
